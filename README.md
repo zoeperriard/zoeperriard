@@ -11,7 +11,7 @@ My interest lies in supporting business decision-making through clear dashboards
 ### Selected Projects
 
 - 📊 **HR Attrition Analysis**  
-  Data cleaning, exploratory analysis and visualization using Python and Tableau  
+  Data cleaning, exploratory analysis and visualization using Excel and Tableau  
   → Focus on turnover drivers and HR KPIs
 
 - 🌐 **Web Analytics Dashboard**  

@@ -1,9 +1,9 @@
 ### About Me
 
-Final-year Bachelor student in Business Administration (work-study program), specializing in Digitalization & E-Business and in Data Analysis and Visualization.
+Final-year Bachelor student in Business Administration (work-study program), specializing in Digitalization & e-business and in Data Analysis and Visualization.
 
 I am currently seeking an entry-level position in Data Analysis.  
-Through both academic and personal projects, I developed practical experience in data analysis, visualization and reporting using Excel, SQL and Tableau.
+Through both academic and personal projects, I developed practical experience in data analysis, visualization and reporting using Excel and Tableau.
 
 In parallel, I am self-learning Python to further develop my analytical skills and expand my technical toolkit.  
 My interest lies in supporting business decision-making through clear dashboards, well-defined KPIs and actionable insights.
@@ -46,3 +46,5 @@ My interest lies in supporting business decision-making through clear dashboards
 ### Version Control & Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+
+Thank you for taking the time to review my profile and projects.

@@ -47,4 +47,4 @@ My interest lies in supporting business decision-making through clear dashboards
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
-## Thank you for taking the time to review my profile and projects.
+# Thank you for taking the time to review my profile. You are welcome to explore the projects below.

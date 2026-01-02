@@ -39,6 +39,10 @@ My interest lies in supporting business decision-making through clear dashboards
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
+### Process Modeling
+
+![BPMN](https://img.shields.io/badge/BPMN_2.0-Process_Modeling-blue?style=flat)
+
 ### Version Control & Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)

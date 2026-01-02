@@ -1,7 +1,14 @@
 ### About Me
 
-Junior Data Analyst with a background in business administration and digitalization.  
-I focus on transforming raw data into actionable insights through data analysis, visualization and dashboards.
+### About Me
+
+Final-year Bachelor student in Business Administration (work-study program), specializing in Digitalization & E-Business and in Data Analysis and Visualization.
+
+I am currently seeking an entry-level position in Data Analysis.  
+Through both academic and personal projects, I developed practical experience in data analysis, visualization and reporting using Excel, SQL and Tableau.
+
+In parallel, I am self-learning Python to further develop my analytical skills and expand my technical toolkit.  
+My interest lies in supporting business decision-making through clear dashboards, well-defined KPIs and actionable insights.
 
 ### Selected Projects
 

@@ -1,7 +1,5 @@
 ### About Me
 
-### About Me
-
 Final-year Bachelor student in Business Administration (work-study program), specializing in Digitalization & E-Business and in Data Analysis and Visualization.
 
 I am currently seeking an entry-level position in Data Analysis.  

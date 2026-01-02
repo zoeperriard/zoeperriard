@@ -1,4 +1,27 @@
-## Hi there 👋
+### About Me
+
+Junior Data Analyst with a background in business administration and digitalization.  
+I focus on transforming raw data into actionable insights through data analysis, visualization and dashboards.
+
+### Selected Projects
+
+- 📊 **HR Attrition Analysis**  
+  Data cleaning, exploratory analysis and visualization using Python and Tableau  
+  → Focus on turnover drivers and HR KPIs
+
+- 🌐 **Web Analytics Dashboard**  
+  Google Analytics data analysis to track user behavior and performance metrics
+
+- 📈 **Excel Business Analysis**  
+  Advanced Excel analysis (formulas, pivots, dashboards) for business decision support
+
+### Data Analysis Skills
+
+- Data cleaning & preparation  
+- Exploratory data analysis (EDA)  
+- KPI definition & business metrics  
+- Data visualization & dashboards  
+- Insights & reporting for decision-making
 
 ## Technical Skills 
 
